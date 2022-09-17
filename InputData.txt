@@ -1,0 +1,9 @@
+6 bl
+8 coors
+1 bud
+7 molson
+6 tba
+4 stella
+1 caesar
+1 caesars
+2 nudev
